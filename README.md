@@ -1,3 +1,7 @@
-This is the repository of the first app of the Complete Ruby on Rails Developer Course
+This is a Personal Blog System using Ruby on Rails and Bootstrap.
 
-- This was built using Rails 5.1.4 and updated in November 2017
+Updated in Oct 2018.
+
+ToDo list:
+1. Admin module 
+2. upload and run on Heroku 
